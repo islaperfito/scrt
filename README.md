@@ -1,4 +1,34 @@
 # Secret Network: OnlyFud MVP milestones
+### Project Description 
+Content creators and consumers alike deserve privacy. The rise of influencers creating user-generated content using Web3 streaming tech fuels demand for a truly private network on Secret - OnlyFud.
+
+### Problem / Solution
+User-generated content websites like OnlyFans have a massive privacy bottleneck. Subscription spend and engagement with the OnlyFans Web2 platform is not private. Lack of trust and transparency discourages hundreds of thousands of potential users due to privacy concerns and lack of anonymity. This opens the opportunity to develop a decentralized solution serving creators and audiences alike looking for privacy, security, and anonymity. Without privacy, Web3 can turn into a dangerous diversion of Web2 architecture, where data and consumer behavior are public and available for big corporations to exploit them, or worse— ruin relationships between those closest to you. Fueled by Sator Network and Secret Labs, onlyFud solves information privacy for the OnlyFans user case, protecting personal data when streaming user-generated content.
+
+### Detailed product description
+Sator.io built its initial product to bridge Web2 television and film production houses into the Web3 ecosystem. The Sator iOS/Android application is native to Solana. 
+A sub-community that has evolved from the OG Sator Community has expressed interest in building a diversion from the traditional video streaming application to a subscription based platform on a private network, with an emphasis on user-generated content. 
+ 
+Sator will build SCRT smart contracts and leverage the SCRT Network to build an inclusive OnlyFans platform on Web3: “OnlyFud”. To access user-generated content and subscriptions, users will pay using native tokens on Secret Network to access paid content and exclusive subscriptions for creators on the network. This way, transactions, subscriptions, and activity remain private and safeguarded by the SCRT network. OnlyFud is a decentralized Webapp with an IBC-enabled private tech stack on SCRT network. OnlyFud compiles custom Rust contracts for privacy where the creator has the option to safeguard exclusive content for VIPs only accessible if you own an NFT from or subscribe to that creator, with a password in the private metadata of the NFT authenticating a user to access. This protects the creator’s original content while also promoting fair revenue streams. This platform will be built with data protection and encryption at its core, with the privacy of all users a top priority.  
+
+<img width="917" alt="Screen Shot 2022-12-06 at 1 53 08 PM" src="https://user-images.githubusercontent.com/54420219/205997838-cbe0571e-4880-4563-8d55-4db7e60b15b9.png">
+
+### Go-to-market plan
+* Go-to-market and commercialization plan (if applicable)
+1. User Acquisition
+2. Target 1,200,000 users Q4 2023, MAU 400k
+3. Dual announcement to SCRT Network Community and Sator Community 
+-SEO Agency for easy discovery of the product by popular keywords.
+-Twitter spaces collaborations with top influencers and SpacesHosts.
+4. Aggressive outreach on 4chan and Reddit. 
+5. Brave campaign takeover: notifications and browser takeover. -Referral code deployment for New User Referrals Bonus
+6. Incentivizing quality content creators from OnlyFans to join a new platform. 
+7. Partnership Marketing —> Expand User Base. Consumer brands, sports teams, music festivals. Joint announcements.
+8. Global Media Comms to increase Growth Efficiency —> Press coverage expanding brand awareness for new user downloads. Social campaigns that people care about. Agency specialization in press, highlighting the importance of privacy and security in Web3 on Secret Network.
+
+### Team info
+
+<img width="845" alt="TEAM" src="https://user-images.githubusercontent.com/54420219/205997907-9f785f86-b056-4387-a43c-7cb8def974c6.png">
 
 ### Overview
 
