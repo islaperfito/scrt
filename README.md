@@ -1,4 +1,4 @@
-#Uranis on Secret MVP milestones
+### Uranis on Secret MVP milestones
 
 ### Project Description 
 Uranis is a decentralized adult content platform on Secret. The exponential rise of user-generated content in Web2 -- including, but not limited to OnlyFans, has continued to highlight loopholes in privacy for both audiences and the original creators. Web2 fundamentals exploit user data, where it is bought, sold, exchanged, or worse -- stolen. Secret Network, the first blockchain with customizable privacy, encrypts private metadata end to end. On Uranis, users get to choose what they share, who they share it with, and how long they share information for. Sensitive adult content should ensure this by default -- and this is now possible on Web3 on Secret. Truly peer-to-peer, not even the nodes operating on Secret can access the information being decrypted and processed on Uranis. 
