@@ -1,15 +1,15 @@
-# Secret Network: OnlyFud MVP milestones
+Uranis on Secret MVP milestones
+
 ### Project Description 
-Content creators and consumers alike deserve privacy. The rise of influencers creating user-generated content using Web3 streaming tech fuels demand for a truly private network on Secret - OnlyFud.
+Uranis is a decentralized adult content platform on Secret. The exponential rise of user-generated content in Web2 -- including, but not limited to OnlyFans, has continued to highlight loopholes in privacy for both audiences and the original creators. Web2 fundamentals exploit user data, where it is bought, sold, exchanged, or worse -- stolen. Secret Network, the first blockchain with customizable privacy, encrypts private metadata end to end. On Uranis, users get to choose what they share, who they share it with, and how long they share information for. Sensitive adult content should ensure this by default -- and this is now possible on Web3 on Secret. Truly peer-to-peer, not even the nodes operating on Secret can access the information being decrypted and processed on Uranis. 
 
 ### Problem / Solution
-User-generated content websites like OnlyFans have a massive privacy bottleneck. Subscription spend and engagement with the OnlyFans Web2 platform is not private. Lack of trust and transparency discourages hundreds of thousands of potential users due to privacy concerns and lack of anonymity. This opens the opportunity to develop a decentralized solution serving creators and audiences alike looking for privacy, security, and anonymity. Without privacy, Web3 can turn into a dangerous diversion of Web2 architecture, where data and consumer behavior are public and available for big corporations to exploit them, or worse— ruin relationships between those closest to you. Fueled by Sator Network and Secret Labs, onlyFud solves information privacy for the OnlyFans user case, protecting personal data when streaming user-generated content.
+User-generated content websites like OnlyFans have a massive privacy bottleneck. Subscription spend and engagement with the OnlyFans Web2 platform is not private. Lack of trust and transparency discourages hundreds of thousands of potential users due to privacy concerns and lack of anonymity. This opens the opportunity to develop a decentralized solution serving creators and audiences alike looking for privacy, security, and anonymity. Without privacy, Web3 can turn into a dangerous diversion of Web2 architecture, where data and consumer behavior are public and available for big corporations to exploit them, or worse— ruin relationships between those closest to you. Uranis solves information privacy for the OnlyFans user case, protecting personal data when streaming user-generated content.
 
 ### Detailed product description
-Sator.io built its initial product to bridge Web2 television and film production houses into the Web3 ecosystem. The Sator iOS/Android application is native to Solana. 
 A sub-community that has evolved from the OG Sator Community has expressed interest in building a diversion from the traditional video streaming application to a subscription based platform on a private network, with an emphasis on user-generated content. 
  
-Sator will build SCRT smart contracts and leverage the SCRT Network to build an inclusive OnlyFans platform on Web3: “OnlyFud”. To access user-generated content and subscriptions, users will pay using native tokens on Secret Network to access paid content and exclusive subscriptions for creators on the network. This way, transactions, subscriptions, and activity remain private and safeguarded by the SCRT network. OnlyFud is a decentralized Webapp with an IBC-enabled private tech stack on SCRT network. OnlyFud compiles custom Rust contracts for privacy where the creator has the option to safeguard exclusive content for VIPs only accessible if you own an NFT from or subscribe to that creator, with a password in the private metadata of the NFT authenticating a user to access. This protects the creator’s original content while also promoting fair revenue streams. This platform will be built with data protection and encryption at its core, with the privacy of all users a top priority.  
+Instantiating private SCRT smart contracts on Secret, Uranis will be Web3.0's encrypted, private OnlyFans derivative. To access user-generated content and subscriptions, users will pay using native tokens on Secret Network to access paid content and exclusive subscriptions for creators on the network. This way, transactions, subscriptions, and activity remain private and safeguarded by the SCRT network. Uranis is a decentralized Webapp with an IBC-enabled private tech stack on SCRT network. Uranis compiles custom Rust contracts for privacy where the creator has the option to safeguard exclusive content for VIPs only accessible if you own an NFT from or subscribe to that creator, with a password in the private metadata of the NFT authenticating a user to access. This protects the creator’s original content while also promoting fair revenue streams. This platform will be built with data protection and encryption at its core, with the privacy of all users a top priority.  
 
 <img width="917" alt="Screen Shot 2022-12-06 at 1 53 08 PM" src="https://user-images.githubusercontent.com/54420219/205997838-cbe0571e-4880-4563-8d55-4db7e60b15b9.png">
 
@@ -32,9 +32,7 @@ Sator will build SCRT smart contracts and leverage the SCRT Network to build an 
 
 ### Overview
 
-- **Total Estimated Duration:** 6 months
-- **Full-Time Equivalent (FTE):**  Average number of full-time employees working on the project throughout its duration (see [Wikipedia](https://en.wikipedia.org/wiki/Full-time_equivalent), e.g. 4 FTE)
-- **Total Costs:** Requested amount in USD for the whole project: $60,000 USD.
+- **Total Costs:** Requested amount in USD for the whole project: $55,000 USD.
 
 ### Milestone 1 — Deploy a Secret Contract
 
