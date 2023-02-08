@@ -50,7 +50,19 @@ Instantiating private SCRT smart contracts on Secret, Secret Admirers will be We
 | 3a. | Custom Logic | Modify contract.rs for custom logic. Write to decentralized storage and provide an environment. |
 
 
-### Milestone 2 — Webapp set-up.
+### Milestone 2 — Video Streaming using a Secret NFT
+
+| Number | Deliverable | Specification |
+| -----: | ----------- | ------------- |
+| 0. | Overview |  In this milestone we will play encrypted video directly on site instead of downloading and decrypting offline. |
+| 1. | HLS protocol | HTTP Live streaming protocol that is industry standard for video streaming with native support for playing encrypted videos. HLS format = m3u8 file describing list of video files + length. |
+| 2. | [Encryption Keys] (https://scrt.network/blog/secret-deep-dive-unlocking-web3-movies-with-secret-nfts) | Allow player to get encryption key from the private metadata inside a Secret NFT by injecting dynamic key into the m3u8 file. |
+| 3. | [Video.JS] (https://videojs.com/) | Video.js is an open source browser video player that allows key override in m3u8 files before the video segment is fetched and played. |
+| 4. | Encryption key URI  | Replace the encryption key URI in manifest file with “key://0.key” to echo, verify and decode the proper key.|
+| 5. | End-to-End testing  | Perform proper testing over HTTPS, ensure it is secure end-to-end, and that Secret NFTs can be decrypted to stream live video. |
+
+
+### Milestone 3 — Webapp set-up.
 
 | Number | Deliverable | Specification |
 | -----: | ----------- | ------------- |
@@ -62,17 +74,6 @@ Instantiating private SCRT smart contracts on Secret, Secret Admirers will be We
 | 5. | SecretJS  | Front-end dApp connected to the Secret Network using SecretJS. SecretJS combined with a Secret contact provides built in computational and programmable data privacy.|
 
 
-
-### Milestone 3 — Video Streaming using a Secret NFT
-
-| Number | Deliverable | Specification |
-| -----: | ----------- | ------------- |
-| 0. | Overview |  In this milestone we will play encrypted video directly on site instead of downloading and decrypting offline. |
-| 1. | HLS protocol | HTTP Live streaming protocol that is industry standard for video streaming with native support for playing encrypted videos. HLS format = m3u8 file describing list of video files + length. |
-| 2. | [Encryption Keys] (https://scrt.network/blog/secret-deep-dive-unlocking-web3-movies-with-secret-nfts) | Allow player to get encryption key from the private metadata inside a Secret NFT by injecting dynamic key into the m3u8 file. |
-| 3. | [Video.JS] (https://videojs.com/) | Video.js is an open source browser video player that allows key override in m3u8 files before the video segment is fetched and played. |
-| 4. | Encryption key URI  | Replace the encryption key URI in manifest file with “key://0.key” to echo, verify and decode the proper key.|
-| 5. | End-to-End testing  | Perform proper testing over HTTPS, ensure it is secure end-to-end, and that Secret NFTs can be decrypted to stream live video. |
 
 ### Milestone 4 — Content Creator Profile Features of Subscription-based Webapp
 
@@ -104,12 +105,3 @@ Instantiating private SCRT smart contracts on Secret, Secret Admirers will be We
 | 0c. | View Payments | processing of all cryptocurrency txs |
 | 0d. | Manage alerts | Send types of notifications |
 
-### Milestone 7— End-to-End Tests
-
-| Number | Deliverable | Specification |
-| -----: | ----------- | ------------- |
-| 0a. | License | Apache 2.0  |
-| 0b. | Documentation | We will provide both **inline documentation** of the code and a basic **tutorial** that explains how a user can start using URANIS and show how the new functionality works. |
-| 0c. | Testing and Testing Guide | Core functions will be fully covered by comprehensive unit tests to ensure functionality and robustness. In the guide, we will describe how to run these tests. |
-| 0d. | Docker | We will provide a Dockerfile that can be used to test all the functionality delivered with this milestone. |
-| 1. | End-to-end tests |  We provide end-to-end tests that test the interplay between the new components. |
