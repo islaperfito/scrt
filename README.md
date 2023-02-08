@@ -26,9 +26,6 @@ Instantiating private SCRT smart contracts on Secret, Secret Admirers will be We
 7. Partnership Marketing —> Expand User Base. Consumer brands, sports teams, music festivals. Joint announcements.
 8. Global Media Comms to increase Growth Efficiency —> Press coverage expanding brand awareness for new user downloads. Social campaigns that people care about. Agency specialization in press, highlighting the importance of privacy and security in Web3 on Secret Network.
 
-### Team info
-
-<img width="845" alt="TEAM" src="https://user-images.githubusercontent.com/54420219/205997907-9f785f86-b056-4387-a43c-7cb8def974c6.png">
 
 ### Overview
 
