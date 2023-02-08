@@ -72,7 +72,8 @@ Instantiating private SCRT smart contracts on Secret, Secret Admirers will be We
 
 
 
-### Milestone 4 — Content Creator Profile Features of Subscription-based Webapp
+### Milestone 4 —  Profile Features of Subscription-based Webapp
+Content Creator Features of Subscription-based Webapp
 
 | Number | Deliverable | Specification |
 | -----: | ----------- | ------------- |
@@ -82,7 +83,7 @@ Instantiating private SCRT smart contracts on Secret, Secret Admirers will be We
 | 0c. | Recieve payment | Receiving payment with fee retention |
 | 0d. | Interaction |  Chats, private calls, messaging |
 
-### Milestone 5 — User Profile Features of Subscription-based Webapp
+User Profile Features of Subscription-based Webapp
 
 | Number | Deliverable | Specification |
 | -----: | ----------- | ------------- |
@@ -92,7 +93,7 @@ Instantiating private SCRT smart contracts on Secret, Secret Admirers will be We
 | 0c. | Suggestions | selection of recommendations |
 | 0d. | Notifications |  Display updates and info to user |
 
-### Milestone 6 — Administrator Features of Subscription-based Webapp
+Administrator Features of Subscription-based Webapp
 
 | Number | Deliverable | Specification |
 | -----: | ----------- | ------------- |
