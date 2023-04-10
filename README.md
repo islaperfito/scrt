@@ -46,19 +46,7 @@ Instantiating private SCRT smart contracts on Secret, Secret Admirers will be We
 | 3. | Instantiate the Secret Contract | Provide JSON input data to create an instance of the project. |
 | 3a. | Custom Logic | Modify contract.rs for custom logic. Write to decentralized storage and provide an environment. |
 
-### Milestone 2 — Webapp set-up.
-
-| Number | Deliverable | Specification |
-| -----: | ----------- | ------------- |
-| 0. | Overview |  In this milestone we will complete initial setup of Webapp and configuration with SecretJS Javascript SDK.|
-| 1. | Domain | Domain purchase / set up |
-| 2. | SecretJS Install | Install Secret.js and begin WebApp dev using Next.js / Node framework |
-| 3. | Bundlr Install | Bundlr combined with livepeer.js for ability to play a video on IPFS and Arweave with [livepeer.js] (https://livepeerjs.org/examples/react/dstorage-playback) this solution has CDN and transcoding built in.|
-| 4. | API, HTTPS Connection | SecretJS interacts with a REST API exposed by nodes in the Secret Network. |
-| 5. | SecretJS  | Front-end dApp connected to the Secret Network using SecretJS. SecretJS combined with a Secret contact provides built in computational and programmable data privacy.|
-
-
-### Milestone 3 — Video Streaming using a Secret NFT
+### Milestone 2 — Video Streaming using a Secret NFT
 
 | Number | Deliverable | Specification |
 | -----: | ----------- | ------------- |
@@ -68,6 +56,17 @@ Instantiating private SCRT smart contracts on Secret, Secret Admirers will be We
 | 3. | [Video.JS] (https://videojs.com/) | Video.js is an open source browser video player that allows key override in m3u8 files before the video segment is fetched and played. |
 | 4. | Encryption key URI  | Replace the encryption key URI in manifest file with “key://0.key” to echo, verify and decode the proper key.|
 | 5. | End-to-End testing  | Perform proper testing over HTTPS, ensure it is secure end-to-end, and that Secret NFTs can be decrypted to stream live video. |
+
+### Milestone 3 — Webapp set-up.
+
+| Number | Deliverable | Specification |
+| -----: | ----------- | ------------- |
+| 0. | Overview |  In this milestone we will complete initial setup of Webapp and configuration with SecretJS Javascript SDK.|
+| 1. | Domain | Domain purchase / set up |
+| 2. | SecretJS Install | Install Secret.js and begin WebApp dev using Next.js / Node framework |
+| 3. | Bundlr Install | Bundlr combined with livepeer.js for ability to play a video on IPFS and Arweave with [livepeer.js] (https://livepeerjs.org/examples/react/dstorage-playback) this solution has CDN and transcoding built in.|
+| 4. | API, HTTPS Connection | SecretJS interacts with a REST API exposed by nodes in the Secret Network. |
+| 5. | SecretJS  | Front-end dApp connected to the Secret Network using SecretJS. SecretJS combined with a Secret contact provides built in computational and programmable data privacy.|
 
 
 ### Milestone 4 —  Profile Features of Subscription-based Webapp
